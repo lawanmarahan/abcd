@@ -1,0 +1,3 @@
+,model,score_val,eval_metric,pred_time_val,fit_time,pred_time_val_marginal,fit_time_marginal,stack_level,can_infer,fit_order
+0,CatBoost_BAG_L1,0.908855986757403,balanced_accuracy,0.05449724197387695,394.70032000541687,0.05449724197387695,394.70032000541687,1,True,1
+1,WeightedEnsemble_L2,0.908855986757403,balanced_accuracy,0.05672717094421387,394.9863336086273,0.002229928970336914,0.2860136032104492,2,True,2
